@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\peter\\Documents\\Mechwart\\2023_24\\Prog\\2023.12.20_Kovács_Péter_C#_doga\\Top100_Kovács_Péter\\Top100_Kovács_Péter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\peter\\Documents\\Mechwart\\2023_24\\Prog\\2023.12.20_Kovács_Péter_C#_doga\\Top100_Kovács_Péter\\Top100_Kovács_Péter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\peter\\Documents\\Mechwart\\2023_24\\Prog\\2023.12.20_Kovács_Péter_C#_doga\\Top100_Kovács_Péter\\Top100_Kovács_Péter.csproj",
+        "projectName": "Top100_Kovács_Péter",
+        "projectPath": "C:\\Users\\peter\\Documents\\Mechwart\\2023_24\\Prog\\2023.12.20_Kovács_Péter_C#_doga\\Top100_Kovács_Péter\\Top100_Kovács_Péter.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\peter\\Documents\\Mechwart\\2023_24\\Prog\\2023.12.20_Kovács_Péter_C#_doga\\Top100_Kovács_Péter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

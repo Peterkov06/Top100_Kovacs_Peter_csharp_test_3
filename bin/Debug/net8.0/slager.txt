@@ -1,0 +1,500 @@
+﻿50 Cent;Curtis;73;2007;Universal Music;123785
+A Társulat;A legjobb dalok;92;2008;Universal Music;311783
+A Társulat;Sztárkarácsony a Társulattal;44;2008;Universal Music;234979
+Abba;Gold - Greatest Hits;69;2008;Universal Music;124719
+AC/DC;Black Ice;70;2009;Sony Music;209822
+AC/DC;Black Ice;6;2008;Sony BMG;236055
+AC/DC;Iron Man 2;16;2010;Sony Music;148061
+Adagio;Érintés;28;2008;Sony BMG;238214
+Adagio;Érintés;15;2007;Sony BMG;250916
+Adagio;Gold;46;2007;Sony BMG;319914
+Adagio;Hollywood;30;2009;Sony Music;223497
+Adam Lambert;For Your Entertainment;72;2010;Sony Music;129473
+Adele;21;33;2011;XL Recordings;333806
+Ákos;40+;37;2010;Falcon Media;396193
+Ákos;40+;4;2009;Falcon Media;349739
+Ákos;A katona imája;10;2011;FalconRecords;309649
+Ákos;A katona imája;1;2010;FalconRecords;365970
+Ákos;Arénakoncert 2011;16;2011;FalconRecords;235862
+Ákos;Még közelebb;22;2007;FalconRecords;207092
+Ákos;Test / Indiántánc;96;2011;Sony Music;105761
+Alma - Bartos Erika;Balaton;34;2010;Universal Music;301862
+Alma & Bródy;Játsszunk együtt!;80;2009;Universal Music;214524
+Alma & Bródy;Játsszunk együtt!;61;2008;Universal Music;256352
+Amy Winehouse;Back To Black;35;2008;Universal Music;292358
+Amy Winehouse;Back To Black;65;2007;Universal Music;252650
+Amy Winehouse;Lioness Hidden Treasures;86;2011;Universal Music;217856
+Andrea Bocelli;Concerto One Night In Central Park;54;2011;Universal Music;392186
+Andrea Bocelli;Incanto;77;2009;Universal Music;242242
+Andrea Bocelli;Incanto;12;2008;Universal Music;271544
+Andrea Bocelli;My Christmas;2;2009;Universal Music;157921
+Andrea Bocelli;My Christmas / My Christmas 2010;18;2010;Universal Music;100975
+Andrea Bocelli;Vivere - Greatest Hits;20;2008;Universal Music;309129
+Andrea Bocelli;Vivere - Greatest Hits;3;2007;Universal Music;218933
+Andrewboy;Dirty Dance 2;17;2011;CLS Music;256094
+Anti Fitness Club;Anti Fitness Club;54;2008;Magneoton;130377
+Avril Lavigne;Goodbye Lullaby;84;2011;Sony Music;336419
+Avril Lavigne;The Best Damn Thing;35;2007;Sony BMG;297869
+B. Tóth László;Retro-Poptarisznya;97;2007;Private Moon;151615
+Balázs Fecó;60 - Csak az évek múltak el...;72;2011;Sony Music;316132
+Balázs Fecó;Érints meg még egyszer;82;2010;Sony Music;312543
+Balázs Fecó;Érints meg még egyszer;15;2009;Sony Music;288722
+Barbra Streisand;Love Is The Answer;28;2009;Sony Music;317660
+Barbra Streisand;The Ultimate Collection;39;2010;Sony Music;199723
+Barbra Streisand;What Matters Most - Barbra Streisand Sings The Lyrics Of Alan & Marilyn Bergman;55;2011;Sony Music;174737
+Baricz Gergő;Az első X - Az élő show-k 10 legnagyobb kedvence;58;2011;Sony Music;251289
+Belga;Zigilemez;77;2007;1G Records;291942
+Bereczki Zoltán;Álomkép;62;2011;Universal Music;212640
+Bereczki Zoltán;Álomkép;7;2010;Universal Music;327364
+Bereczki Zoltán - Szinetár Dóra;Duett Karácsony;36;2010;Universal Music;284296
+Bereczki Zoltán - Szinetár Dóra;Duett Karácsony;1;2009;Universal Music;178620
+Bereczki Zoltán - Szinetár Dóra;Musical Duett;97;2010;EMI;234649
+Bereczki Zoltán - Szinetár Dóra;Musical Duett;64;2009;EMI;203474
+Bereczki Zoltán - Szinetár Dóra;Musical Duett;7;2008;EMI;250681
+Bereczki Zoltán - Szinetár Dóra;Musical Duett;1;2007;EMI;145615
+Bereczki Zoltán - Szinetár Dóra;Musical Duett 2.;72;2009;EMI;246143
+Bereczki Zoltán - Szinetár Dóra;Musical Duett 2.;2;2008;EMI;165563
+Bereczki Zoltán - Szinetár Dóra;Musical Duett Box;62;2009;EMI;287286
+Bereczki Zoltán - Szinetár Dóra;Musical Duett Box;68;2008;EMI;151236
+Bereczki Zoltán - Szinetár Dóra;Musical Duett Koncert;37;2009;EMI;226070
+Beyoncé;4;77;2011;Sony Music;326679
+Beyoncé;I Am... Sasha Fierce;67;2009;Sony Music;206156
+Bikini;Elmúlt illúziók;60;2011;EMI;119686
+Bikini;Őrzöm a lángot;36;2007;EMI;366023
+Bikini;The Very Best Of;98;2010;EMI;311194
+Bódi Guszti és a Fekete Szemek;Forr a vérem;86;2007;MusiCDome;382502
+Bon Jovi;Greatest Hits;48;2011;Universal Music;321287
+Bon Jovi;Greatest Hits;33;2010;Universal Music;271685
+Bon Jovi;Lost Highway;60;2007;Universal Music;242729
+Bonanza Banzai;Jóslat / Búcsúkoncert;94;2011;Sony Music;303332
+Britney Spears;Femme Fatale;75;2011;Sony Music;320902
+Bródy János;Az Illés szekerén;15;2011;EMI;143970
+Budapest Bár;Volume 1;85;2011;EMI;295154
+Budapest Bár;Volume 1;90;2010;EMI;188239
+Budapest Bár;Volume 1;72;2008;EMI;313524
+Budapest Bár;Volume 2 - Tánc;76;2011;EMI;260582
+Budapest Bár;Volume 2 - Tánc;49;2010;EMI;269163
+Budapest Bár;Volume 2 - Tánc;25;2009;EMI;371139
+Budapest Bár;Volume 3 - Zene;20;2011;Sony Music;243488
+Budapest Bár;Volume 3 - Zene;28;2010;Sony Music;235884
+Budapest Bár;Volume 4 - Hoppá!;8;2011;Sony Music;189283
+Caramel;Lélekdonor;40;2011;Tom-Tom Records;301822
+Caramel;Lélekdonor;12;2010;Tom-Tom Records;105943
+Celine Dion;My Love Essential Collection;60;2009;Sony Music;206951
+Celine Dion;My Love Essential Collection;38;2008;Sony BMG;162102
+Coldplay;Mylo Xyloto;87;2011;EMI;278373
+Coldplay;Viva La Vida;46;2008;EMI;221783
+Crystal;Gregorian;45;2009;Universal Music;328884
+Crystal;Világok hangjai;54;2007;EMI;197723
+Csézy;Szívverés;99;2008;Magneoton;125361
+Csicsi;Pimpinkin;82;2008;EMI;303349
+Csík Zenekar;Ez a vonat, ha elindult, hadd menjen...;78;2011;Fonó;124623
+Csík Zenekar;Ez a vonat, ha elindult, hadd menjen...;43;2010;Fonó;348566
+Csík Zenekar;Ez a vonat, ha elindult, hadd menjen...;48;2009;Fonó;217769
+Csík Zenekar;Ez a vonat, ha elindult, hadd menjen...;59;2008;Fonó;164678
+Csík Zenekar;Lélekképek;38;2011;Fonó;259702
+Csík Zenekar;Szívest örömEst - Óévbúcsúztató koncert 2009;74;2011;Fonó;334854
+Csík Zenekar;Szívest örömEst - Óévbúcsúztató koncert 2009;31;2010;Fonó;242851
+Csináljuk a fesztivált;Csináljuk a fesztivált 3.;100;2008;EMI;308570
+Csináljuk a fesztivált;Csináljuk a fesztivált!;69;2007;Universal Music;153744
+David Guetta;Nothing But The Beat;43;2011;EMI;279676
+David Guetta;One Love / One More Love;13;2010;EMI;320077
+Deák Bill Gyula;A király meséi;78;2010;Sony Music;101086
+Deák Bill Gyula;A király meséi;18;2009;Sony Music;317221
+Deák Bill Gyula;Hatvan csapás;100;2009;Sony Music;119625
+Deák Bill Gyula;Hatvan csapás;3;2008;Sony BMG;297771
+Demjén Ferenc;A lelkünk most is vágtat;66;2009;R&R;141853
+Demjén Ferenc;Így fogadj el igazán;83;2010;R&R;190325
+Depeche Mode;Sounds Of The Universe;16;2009;EMI;385642
+Depeche Mode;The Best Of Vol. 1.;44;2007;EMI;138569
+Depresszió;Vízválasztó;68;2011;Hammer Music;140030
+Dés-Bereményi-Básti-Cserhalmi-Kulka-Udvaros;Férfi és Nő;94;2010;Sony Music;360328
+Dés-Bereményi-Básti-Cserhalmi-Kulka-Udvaros;Férfi és Nő;23;2009;Sony Music;371280
+Dés-Bereményi-Básti-Cserhalmi-Kulka-Udvaros;Férfi és Nő;14;2008;Sony BMG;141615
+Desperado;Táncolj!;78;2007;Sony BMG;184752
+Diana Krall;Quiet Nights;14;2009;Universal Music;110044
+Diana Krall;The Very Best Of;66;2007;Universal Music;253348
+Dido;Safe Trip Home;50;2008;Sony BMG;232649
+DJ Dominique;Best Of Hungarissimo;79;2010;Private Moon;295031
+DJ Dominique;Megamix 2011;80;2011;Magneoton;149421
+Dobrády Ákos;Közelebb egymáshoz;86;2010;Seven Music;125741
+Dolhai Attila;Egy szerelem története;55;2009;Sony Music;304545
+Dolhai Attila;Egy szerelem története;10;2008;Sony BMG;219655
+Dolhai Attila;Olasz szerelem;26;2008;Sony BMG;192226
+Dolhai Attila;Olasz szerelem;2;2007;Sony BMG;225754
+Duffy;Rockferry;85;2008;Universal Music;279703
+Edda;Átok és áldás;81;2009;Edda;275034
+Enya;And Winter Came;17;2008;Warner Music;232594
+Enya;The Very Best Of;97;2009;Warner Music;182425
+Eros Ramazzotti;Ali E Radici / Alas Y Raices;12;2009;Sony Music;238468
+Eros Ramazzotti;E2;76;2008;Sony BMG;110363
+Eros Ramazzotti;E2;33;2007;Sony BMG;249380
+Feke Pál;A döntők legszebb dalai;64;2008;Universal Music;337504
+Feke Pál;Új világ vár!;22;2009;Tom-Tom Records;371117
+Fekete Dávid;Kell, hogy itt legyél;91;2009;Sony Music;389124
+Fenyő Miklós;Kell egy álom;91;2007;Rózsa Records;127424
+Fiesta;Lehet, hogy álom;53;2008;Universal Music;353370
+Filmzene;Hannah Montana;84;2009;EMI;327624
+Filmzene;Hannah Montana - The Movie;21;2009;EMI;367337
+Filmzene;Hannah Montana 3;41;2009;EMI;238304
+Filmzene;Made In Hungária;26;2009;EMI;137726
+Filmzene;Mamma Mia!;61;2010;Universal Music;353583
+Filmzene;Mamma Mia!;5;2009;Universal Music;398650
+Filmzene;Mamma Mia!;1;2008;Universal Music;246483
+Filmzene;Sex And The City;96;2008;Universal Music;278816
+Filmzene;Valami Amerika 2.;57;2009;Sony Music;168776
+Fivérek;Luxus tangó;100;2011;Magneoton;282083
+Gáspár Laci;És mégis forog a Föld;42;2007;EMI;307555
+George Michael;Twenty Five;45;2007;Sony BMG;126159
+Ghymes;Álombálom;43;2008;EMI;396571
+Ghymes;Mendika;63;2007;EMI;210449
+Ghymes;Szikraszemű;81;2010;Universal Music;326097
+Gringo Sztár;Pálinka Sunrise;31;2011;BMC Records;151065
+Groovehouse;Hosszú az út;70;2008;EMI;170501
+Guns N' Roses;Chinese Democracy;41;2008;Universal Music;316010
+Gyerekkarácsony;Gyerekkarácsony;40;2008;Fortuna Records;199379
+Gyereklemez;Gyerekkarácsony Aranyalbum;53;2011;Zeneker;220131
+Gyereklemez;Magyarország kedvenc gyerekdalai;14;2011;Universal Music;365739
+Gyereklemez;Magyarország kedvenc gyerekdalai;9;2010;Universal Music;397217
+Gyereklemez;Magyarország kedvenc gyerekdalai - Ráadás;29;2011;Universal Music;393864
+Gyereklemez;Magyarország legkedveltebb karácsonyi gyerekdalai;18;2011;Universal Music;145288
+Halász Judit;Apa figyelj rám;11;2011;Universal Music;136233
+Halász Judit;Csiribiri;50;2011;EMI;399849
+Halász Judit;Csiribiri;14;2010;EMI;208058
+Halász Judit;Csiribiri;9;2009;EMI;379172
+Halász Judit;Micimackó és a többiek;99;2011;EMI;208020
+Halász Judit;Szeresd a testvéred!;34;2008;EMI;171041
+Halász Judit;Szeresd a testvéred!;12;2007;EMI;201562
+Hobo;Circus Hungaricus;38;2010;EMI;113573
+Hobo;Circus Hungaricus;17;2009;EMI;144785
+Hobo Blues Band;Halj meg és nagy leszel!;49;2011;Universal Music;112818
+Hobo Blues Band;Halj meg és nagy leszel!;41;2010;Universal Music;196224
+Holdviola;Madárka;8;2010;WM Records;258968
+Holdviola;Vándorfecske;81;2011;WM Records;242012
+Homonnay Zsolt és Polyák Lilla;Ketten;35;2009;Sony Music;376871
+Hooligans;Best Of 1996-2011;64;2011;EMI;276132
+Hooligans;Bohémélet;52;2007;EMI;351884
+Hooligans;Privát mennyország;27;2008;EMI;173727
+Horgas Eszter;Karácsony angyala;89;2009;Sony Music;366506
+Horgas Eszter;Ő és Carmen;85;2009;Galaxy Music;276992
+Hungarica;Nincs más Föld, nincs más Ég;65;2009;Hammer Music;391836
+Irigy Hónaljmirigy;K.O. Média;13;2007;CLS Music;354622
+Iron Maiden;The Final Frontier;92;2010;EMI;362857
+Ismerős Arcok;Éberálom;93;2009;Ismerős Arcok;141302
+Ismerős Arcok;Lélekvesztő;24;2009;Ismerős Arcok;221503
+István, a király;25. éves Jubileumi album a Társulat előadásában;11;2008;Tom-Tom Records;243046
+Janicsák Veca;A második X - 10 új felvétel;5;2011;Sony Music;230145
+Janicsák Veca;Az első X - 10 dal az élő showból;1;2011;Sony Music;138396
+Janicsák Veca;Az első X - 10 dal az élő showból;44;2010;Sony Music;273853
+Janicsák Veca;Veca világa;25;2011;Sony Music;336242
+Jean Michel Jarre;Oxygen - 30th Anniversary;56;2009;EMI;291036
+Jean Michel Jarre;Oxygen - 30th Anniversary;100;2007;EMI;361615
+Jennifer Lopez;Como Ama Una Mujer;76;2007;Sony BMG;267212
+Jolly;Kislány ne légy szomorú;29;2007;Klub Publishing;380125
+Josh és Jutta;Szabadon;98;2008;Magneoton;199976
+Justin Timberlake;Futuresex/Lovesounds;90;2007;Sony BMG;210459
+Kárpátia;Idők szava;57;2008;Exkluzív Music;257846
+Kárpátia;Szebb jövőt;74;2009;Exkluzív Music;102255
+Karthago;Időtörés;86;2009;EMI;373685
+Kasza Tibor;Ha egy férfi igazán szeret;21;2008;EMI;294897
+Kaszás Attila;Kit ringat a bölcső, Janikát.;82;2007;Magneoton;144166
+Katy Perry;Teenage Dream;96;2010;EMI;303952
+Keresztes Ildikó;Csak játszom;21;2010;Sony Music;389351
+Keresztes Ildikó;Minden ami szép volt;53;2009;Sony Music;179560
+Keresztes Ildikó;Minden ami szép volt;37;2008;Sony BMG;208205
+Kern András;Semmi baj...;48;2010;Sony Music;112173
+Király L. Norbert;A második X - 10 új felvétel;41;2011;Sony Music;208831
+Király L. Norbert;Az első X - 10 dal az élő showból;13;2011;Sony Music;312249
+Király L. Norbert;Az első X - 10 dal az élő showból;11;2010;Sony Music;249921
+Kiscsillag;Néniket a bácsiknak;63;2011;Megadó;129830
+Kiscsillag;Örökre szívembe zártalak;59;2009;Megadó;201912
+Kiskalász Zenekar - Bartos Erika;Százlábú;59;2010;Alexandra;277310
+Kiskalász Zenekar - Bartos Erika;Zsákbamacska;96;2009;Alexandra;163710
+Kispál és a Borz;20 év;48;2008;Universal Music;329814
+Kispál és a Borz;20 év;23;2007;Universal Music;163958
+Kispál és a Borz;Napozz Holddal - Búcsúkoncert;95;2010;Megadó;209642
+Kistehén Tánczenekar;Szerelmes vagyok minden nőbe;92;2007;EMI;104627
+Kocsis Tibor;Az első X - Az élő show-k 10 legnagyobb kedvence;27;2011;Sony Music;233136
+Koncz Zsuzsa;37;47;2010;Hungaroton;229661
+Kormorán;Best of;77;2008;Hungaroton;195665
+Kowalsky meg a Vega;Az évtized lemeze;70;2011;CLS Music;333402
+Kökény Attila;Nincs semmi másom;28;2011;Universal Music;323736
+Kulka János;Akarod vagy nem;22;2010;Sony Music;316261
+L.L. Junior;Fehér holló;95;2007;Magic World Media;222121
+Lady Gaga;Born This Way;30;2011;Universal Music;372970
+Lady Gaga;The Fame / The Fame Monster;34;2011;Universal Music;105709
+Lady Gaga;The Fame / The Fame Monster;3;2010;Universal Music;320780
+Lady Gaga;The Fame / The Fame Monster;6;2009;Universal Music;315308
+Leona Lewis;Spirit;81;2008;Sony BMG;204802
+Leonard Cohen;Greatest Hits;69;2009;Sony Music;234203
+Leonard Cohen;Live In London;61;2009;Sony Music;356502
+Leonard Cohen;Songs From The Road;35;2010;Sony Music;137397
+Lilly Baba;A világ körül;52;2008;Sony BMG;356101
+Lilly Baba;Az én albumom;18;2007;Sony BMG;151346
+Linkin Park;Minutes To Midnight;58;2007;Warner Music;330545
+Lola;Élj a mának!;47;2007;Gold Record;298836
+Lord;Örökké;40;2010;Hammer Music;102200
+Lord;Szóljon a Lord - Best Of;40;2009;Hammer Music;210732
+Luciano Pavarotti;Pavarotti Forever;53;2007;Universal Music;152552
+Luciano Pavarotti;The Duets;75;2008;Universal Music;101220
+Madonna;Celebration;29;2009;Warner Music;218571
+Madonna;Hard Candy;5;2008;Warner Music;156172
+Madonna;The Confessions Tour;31;2007;Warner Music;261556
+Mága Zoltán;A királyok hegedűse;23;2011;Tom-Tom Records;151150
+Mága Zoltán;A királyok hegedűse;2;2010;Tom-Tom Records;225414
+Mága Zoltán;A királyok hegedűse;13;2009;Tom-Tom Records;388145
+Mága Zoltán;Budapesti újévi koncert 2011;57;2011;Tom-Tom Records;214669
+Magna Cum Laude;999;88;2010;Magneoton;281438
+Magna Cum Laude;999;10;2009;Magneoton;104115
+Magna Cum Laude;Belső égés;44;2011;Magneoton;297297
+Magna Cum Laude;Csak ülünk és zenélünk;83;2011;Magneoton;347377
+Magna Cum Laude;Jubileum;95;2011;Magneoton;246398
+Magna Cum Laude;Jubileum;57;2010;Magneoton;359109
+Magna Cum Laude;Jubileum;44;2009;Magneoton;229858
+Magna Cum Laude;Magnatofon;51;2008;Magneoton;192369
+Magna Cum Laude;Magnatofon;75;2007;Magneoton;139519
+Magna Cum Laude;Minden állomás;40;2007;Magneoton;285517
+Magyarország kedvenc gyermekmeséi;Magyar népmesék;2;2011;Universal Music;382804
+Mahó Andrea;Más lesz a holnap;59;2007;Universal Music;287789
+Manu Chao;La Radiolina;79;2007;Warner Music;147761
+Mariah Carey;Merry Christmas II You;93;2010;Universal Music;206336
+Márió;Best of;32;2008;EMI;168979
+Máté Péter emlékalbum;Egy darabot a szívemből;89;2007;Magneoton;242596
+Megasztár;A legenda folytatódik;89;2008;Magneoton;299284
+Megasztár;Megasztár Karácsony 2008;47;2008;Magneoton;144994
+Megasztár;Top 5;45;2011;Universal Music;159004
+Mészáros Árpád Zsolt;Musicalek Mázs-képpen;80;2008;EMI;231297
+Mészáros Árpád Zsolt;Musicalek Mázs-képpen;72;2007;EMI;218333
+Metallica;Death Magnetic;15;2008;Universal Music;275753
+Michael Bublé;Call Me Irresponsible;87;2007;Warner Music;315873
+Michael Bublé;Christmas;6;2011;Warner Music;144735
+Michael Jackson;Bad;79;2009;Sony Music;216543
+Michael Jackson;Essential Michael Jackson;33;2009;Sony Music;292056
+Michael Jackson;King Of Pop - Magyarország kedvenc dalai;20;2009;Sony Music;194557
+Michael Jackson;Michael;60;2010;Sony Music;165605
+Michael Jackson;This Is It;87;2010;Sony Music;217084
+Michael Jackson;This Is It;7;2009;Sony Music;185357
+Michael Jackson;Thriller - 25th Anniversary Edition;39;2009;Sony Music;131417
+Miley Cyrus;Breakout;86;2008;Universal Music;347679
+Miley Cyrus;Can`t Be Tamed;68;2010;Universal Music;109000
+Miley Cyrus;The Time Of Our Lives;94;2009;Universal Music;227123
+Miller Zoltán;Fehér és fekete;33;2008;Sony BMG;121769
+Mini Hitmix;Mini hitmix;41;2007;Sony BMG;313075
+MR2-Petőfi Rádió;Egy kis hazai;25;2008;Magyar Rádió;230596
+MR2-Petőfi Rádió;Egy kis hazai 2.;74;2008;Magyar Rádió;145050
+MR2-Petőfi Rádió;Egy kis hazai 3.;58;2009;Magyar Rádió;371331
+MR2-Petőfi Rádió;Egy kis hazai 4.;59;2011;CLS Music;152429
+Muri Enikő;Az első X - Az élő show-k 10 legnagyobb kedvence;42;2011;Sony Music;194642
+Musical;High School Musical;36;2008;EMI;227878
+Musical;High School Musical;61;2007;EMI;375330
+Musical;High School Musical - Hits Collection;31;2008;EMI;302738
+Musical;High School Musical - Hits Collection;88;2007;EMI;165078
+Musical;High School Musical 2.;22;2008;EMI;288021
+Musical;High School Musical 2.;20;2007;EMI;320897
+Musical;High School Musical 3.;4;2008;EMI;197099
+Musical;Rebecca - A Manderley-ház asszonya;26;2010;Universal Music;155293
+Musical;Szép nyári nap;34;2009;Magneoton;245422
+Musical Legendák;Gyere, álmodj!;51;2010;Universal Music;312155
+Nagy Sándor;Szavak;45;2010;Sony Music;131467
+Nelly Furtado;Loose;5;2007;Universal Music;335947
+Nightwish;Dark Passion Play;84;2007;Hammer Music;170334
+No Thanx;Egy másik nemzedék;16;2007;EMI;198551
+Norah Jones;Not Too Late;28;2007;EMI;299201
+Norah Jones;The Fall;82;2009;EMI;100540
+Nótár Mary;Cigánylány;94;2008;MusiCDome;388392
+Nótár Mary;Cigánylány;43;2007;MusiCDome;341302
+Nox;Best of 2002-2009;55;2010;Universal Music;114142
+Nox;Csendes;49;2008;Universal Music;157594
+Nox;Csendes;24;2007;Universal Music;108310
+Nox;Időntúl;68;2009;Universal Music;144889
+Nox;Időntúl;8;2008;Universal Music;100291
+Nox;Most!;65;2010;Universal Music;304830
+Nox;Most!;31;2009;Universal Music;131770
+Nox;Örömvölgy;19;2007;Universal Music;132880
+Ocho Macho;El Mundo Fantastico;84;2010;CLS Music;374945
+Ocho Macho;Online a világ;46;2011;CLS Music;275105
+Oláh Ibolya;El merem mondani;30;2010;Sony Music;152514
+Omega;Omega Rhapsody;76;2010;Alexandra;311079
+Ossian;Az lesz a győztes;67;2011;Hammer Music;157958
+Ossian;Egyszer az életben;43;2009;Hammer Music;380220
+Ossian;Örök tűz;85;2007;Hammer Music;290731
+P!Nk;Greatest Hits...So Far!!!;51;2011;Sony Music;104021
+P!Nk;Greatest Hits...So Far!!!;66;2010;Sony Music;391816
+Palya Bea;Adieu les complexes;9;2008;Sony BMG;165126
+Palya Bea;Egyszálének;19;2009;Sony Music;133751
+Palya Bea;Én leszek a játékszered;27;2010;Sony Music;169365
+Palya Bea;Ribizliálom;88;2011;Sony Music;247820
+Péterfy Bori & Love Band;2B;75;2010;Megadó;112086
+Péterfy Bori & Love Band;Péterfy Bori & Love Band;90;2009;Megadó;294702
+Péterfy Bori & Love Band;Péterfy Bori & Love Band;29;2008;Megadó;308569
+Péterfy Bori & Love Band;Péterfy Bori & Love Band;83;2007;Megadó;127811
+Péterfy Bori & Love Band;Péterfy Bori & Love Band 2;74;2010;Megadó;362875
+Péterfy Bori & Love Band;Péterfy Bori & Love Band 2;46;2009;Megadó;221137
+Pink;Funhouse;36;2009;Sony Music;284250
+Pink;Funhouse;97;2008;Sony BMG;229926
+Pinokkió;Mágikus Pinokkió;34;2007;EMI;179111
+Piramis;Koncert 2006 Sportaréna;55;2007;EMI;118612
+Pitbull;Planet Pit;56;2011;Sony Music;266291
+Polyák Lilla és Homonnay Zsolt;Két szív;100;2010;Sony Music;336476
+Presser Gábor;1 óra az 1 koncert-ből;63;2009;Sony Music;375410
+Princess;Best of Princess;95;2008;Sony BMG;170091
+Princess;Mediterrán;74;2007;Sony BMG;174282
+Queen;Absolute Greatest;54;2010;EMI;278759
+Queen;Absolute Greatest;38;2009;EMI;291041
+Quimby;Instant szeánsz;36;2011;Tom-Tom Records;368299
+Quimby;Kicsi ország;24;2011;Tom-Tom Records;163403
+Quimby;Kicsi ország;17;2010;Tom-Tom Records;141278
+Quimby;Kilégzés;79;2011;Tom-Tom Records;398479
+Quimby;Kilégzés;89;2010;Tom-Tom Records;110961
+Quimby;Lármagyűjtögető;29;2010;Tom-Tom Records;363676
+Quimby;Lármagyűjtögető;99;2009;Tom-Tom Records;128236
+Rammstein;Liebe Ist Für Alle Da;87;2009;Universal Music;100615
+Red Hot Chili Peppers;I`m With You;52;2011;Warner Music;269962
+Red Hot Chili Peppers;Stadium Arcadium;80;2007;Warner Music;284233
+Republic;20 éves ünnepi koncert;90;2011;EMI;238402
+Republic;20 éves ünnepi koncert;64;2010;EMI;191940
+Republic;Aranyalbum 2. - 2000-2010;53;2010;EMI;273602
+Republic;Aranyalbum 2. - 2000-2010;52;2009;EMI;268838
+Republic;Fényes utakon;25;2007;EMI;167427
+Republic;Köztársaság;71;2010;EMI;201863
+Republic;Miért, maga bohóc?;73;2011;EMI;219203
+Republic;Tiszta udvar, rendes ház;24;2008;EMI;259909
+Rihanna;Good Girl Gone Bad;83;2008;Universal Music;120374
+Rihanna;Good Girl Gone Bad;21;2007;Universal Music;375411
+Rihanna;Loud;37;2011;Universal Music;192516
+Rihanna;Loud;62;2010;Universal Music;264571
+Rihanna;Talk That Talk;69;2011;Universal Music;164592
+Road;Emberteremtő;91;2010;Hammer Music;115563
+Robbie Williams;In And Out Of Consciousness Greatest Hits 1990-2010;67;2010;EMI;180164
+Robbie Williams;Reality Killed The Video Star;49;2009;EMI;191574
+Rod Stewart;Fly Me To The Moon...The Great American Songbook Volume V;80;2010;Sony Music;172971
+Rod Stewart;Soulbook;77;2010;Sony Music;330403
+Rod Stewart;Soulbook;76;2009;Sony Music;139822
+Rosszcsontok;Rosszcsontok;55;2008;EMI;196527
+Rosszcsontok;Rosszcsontok;70;2007;EMI;390314
+Rúzsa Magdi;Iránytű;75;2009;CLS Music;188423
+Rúzsa Magdi;Iránytű;13;2008;CLS Music;259859
+Rúzsa Magdi;Magdaléna Rúzsa;26;2011;Magneoton;242162
+Rúzsa Magdi;Ördögi angyal;11;2007;CLS Music;219811
+Rúzsa Magdi;T-Mobile Kapcsolat Koncert;66;2008;CLS Music;366446
+Rúzsa Magdi;T-Mobile Kapcsolat Koncert;32;2007;CLS Music;397947
+Rúzsa Magdi;A döntőkben elhangzott dalok;38;2007;Universal Music;111186
+Sade;Soldier of Love;10;2010;Sony Music;258606
+Sade;The Ultimate Collection;32;2011;Sony Music;303892
+Santana;Guitar Heaven The Greatest Guitar Classics Of All Time;65;2011;Sony Music;100567
+Santana;Guitar Heaven The Greatest Guitar Classics Of All Time;32;2010;Sony Music;173463
+Santana;Ultimate Santana;71;2008;Sony BMG;226697
+Santana;Ultimate Santana;51;2007;Sony BMG;136197
+Seal;Soul;45;2008;Warner Music;230277
+Shakira;Sale El Sol / The Sun Comes Out;35;2011;Sony Music;392561
+Shakira;Sale El Sol / The Sun Comes Out;19;2010;Sony Music;268515
+Snufi;Szívemből szól;39;2008;Sony BMG;189403
+Sp;Kölyök 22;63;2010;Gold Record;111246
+St. Martin;Föld szélén, középen;52;2010;Tom-Tom Records;299650
+Sting;If On A Winter`s Night;27;2009;Universal Music;364246
+Sting;Symphonicities;89;2011;Universal Music;242699
+Sting;Symphonicities;25;2010;Universal Music;197789
+Sting;The Best Of 25 Years;98;2011;Universal Music;178483
+Susan Boyle;I Dreamed A Dream;69;2010;Sony Music;331814
+Susan Boyle;I Dreamed A Dream;47;2009;Sony Music;102203
+Susan Boyle;The Gift;50;2010;Sony Music;160053
+Szabó Eszter;Colorpop;42;2009;Szabó Eszter Produkció;331185
+Szekeres Adrien;A szeretet ünnepén;42;2008;Magneoton;342747
+Szekeres Adrien;Csak játék;50;2009;Magneoton;328275
+Szekeres Adrien;Olyan, mint Te;16;2008;Magneoton;322291
+Szekeres Adrien;Olyan, mint Te;10;2007;Magneoton;374086
+Szenes Iván;Hosszú az a nap;19;2011;Universal Music;197856
+Szenes Iván;Hosszú az a nap;58;2010;Universal Music;159549
+Szíj Melinda;Foltos úton;21;2011;Universal Music;110710
+Szikora Róbert;Legszebb szerelmes dalai;71;2009;Universal Music;379284
+Szulák Andrea;Boldogság, gyere haza;49;2007;Sony BMG;328035
+Tabáni István;Érzés;61;2011;Universal Music;184616
+Tabáni István;Gyönyörű szép;82;2011;Universal Music;100557
+Tabáni István;Gyönyörű szép;15;2010;Universal Music;287911
+Tabáni István;Ments meg!;5;2010;Universal Music;140708
+Takács Nikolas;A második X - 10 új felvétel;7;2011;Sony Music;245670
+Takács Nikolas;Az első X - 10 dal az élő showból;3;2011;Sony Music;182193
+Takács Nikolas;Az első X - 10 dal az élő showból;4;2010;Sony Music;364237
+Tankcsapda;Elektromágnes;90;2008;CLS Music;158029
+Tankcsapda;Elektromágnes;26;2007;CLS Music;174724
+Tankcsapda;Minden jót;70;2010;Alexandra;172198
+Tankcsapda;Minden jót;3;2009;Alexandra;292543
+The Black Eyed Peas;The E.N.D.;78;2009;Universal Music;131394
+Tiesto;Elements Of Life;50;2007;Record Express;193319
+Tiesto;In Search Of Sunrise 6.;99;2007;Record Express;159626
+Tokio Hotel;Zimmer 483;64;2007;Universal Music;308014
+Tolvai Renáta;A döntőben elhangzott dalok;66;2011;Tom-Tom Records;321922
+Tóth Vera;Zene kell nekem;99;2010;EMI;224067
+U2;18 Singles;48;2007;Universal Music;354864
+U2;No Line On The Horizon;11;2009;Universal Music;194821
+Utasi Árpi;Kedvenc meséim;93;2008;Klub Publishing;132336
+Váczi Eszter Quartet;Vissza hozzád;98;2009;Tom-Tom Records;197389
+Válogatás;A legnagyobb magyar slágergyűjtemény;9;2007;EMI;134960
+Válogatás;Bravissimo 2007;56;2007;Magneoton;293056
+Válogatás;Csingiling - Karácsonyi Muzsika;92;2009;Sony Music;137884
+Válogatás;Csingiling - Karácsonyi Muzsika;56;2008;Sony BMG;309185
+Válogatás;Dancissimo 2006;62;2007;Sony BMG;347852
+Válogatás;Dancissimo 2007;17;2007;Sony BMG;345762
+Válogatás;Dancissimo 2008 hotdog.hu Dancemix;78;2008;Sony BMG;368443
+Válogatás;Gyerekkarácsony Bónusz;56;2010;Fortuna Records;378731
+Válogatás;Gyerekkarácsony Extra;54;2009;Fortuna Records;110941
+Válogatás;Karácsonyi csillagszórók;81;2007;Magneoton;308092
+Válogatás;Klasszikus kedvencek;97;2011;Universal Music;119711
+Válogatás;MAMA - Dalok édesanyáknak;94;2007;Sony BMG;205937
+Válogatás;Mulat az ország;4;2007;Magneoton;215545
+Válogatás;Mulat az ország 2.;60;2008;Magneoton;320063
+Válogatás;Mulat az ország 2.;71;2007;Magneoton;377369
+Válogatás;Mulatós aranyalbum - best of;7;2007;EMI;240190
+Válogatás;Mulatós mánia 2007;91;2008;Universal Music;319016
+Válogatás;Mulatós Mánia 2008;87;2008;Universal Music;375462
+Válogatás;Nagy gyerek lemez;93;2011;Sony Music;375494
+Válogatás;Nagy gyerek lemez;23;2010;Sony Music;368838
+Válogatás;Nagy hazai házibuli folytatódik;30;2008;Sony BMG;294269
+Válogatás;Nagy hazai házibuli lemez;57;2007;Sony BMG;389739
+Válogatás;Nagy mulatós lemez 2007;84;2008;Sony BMG;132763
+Válogatás;Nagy mulatós lemez 2007;30;2007;Sony BMG;329581
+Válogatás;Nagy mulatós lemez 2008;67;2008;Sony BMG;160986
+Válogatás;Nagy mulatós lemez 2009;88;2009;Sony Music;210095
+Válogatás;Nagy mulatós lemez 2010;85;2010;Sony Music;320136
+Válogatás;Now.hu 11;65;2008;EMI;257186
+Válogatás;Now.hu 9.;39;2007;EMI;270552
+Válogatás;Óriás mulatós lemez;58;2008;Sony BMG;114255
+Válogatás;Óriás mulatós lemez;14;2007;Sony BMG;263862
+Válogatás;Party Megamix 2008;73;2008;CLS Music;125348
+Válogatás;Swing! Swing! Swing!;95;2009;Sony Music;371073
+Válogatás;Szenes Iván Nem csak a húszéveseké a világ;91;2011;Sony Music;249846
+Válogatás;Szenes Iván Nem csak a húszéveseké a világ;46;2010;Sony Music;381641
+Válogatás;Trend 2007 Tavasz;93;2007;Sony BMG;180264
+Válogatás;Új Juventus mix;62;2008;Sony BMG;144590
+Válogatás;Új Juventus mix;37;2007;Sony BMG;267470
+Válogatás;VIVA Megamix 2007;98;2007;Magneoton;263828
+Váradi Roma Café;Espresso;23;2008;Sony BMG;363725
+Váradi Roma Café;Ez van;83;2009;Sony Music;332255
+Váradi Roma Café;Isten hozott a családban;6;2007;Sony BMG;277268
+Varga Feri & Balássy Betty;Ébredni valakiért;96;2007;Magneoton;307993
+Varnus Xavér;Bachtól a Csillagok háborújáig;63;2008;Sony BMG;197891
+Varnus Xavér;Classic & Jazz;73;2009;Sony Music;364081
+Varnus Xavér;From Ravel to Vangelis;8;2007;Sony BMG;376008
+Vásáry André;Ünnep;20;2010;Universal Music;231785
+Vásáry André;Vásáry André;73;2010;Universal Music;108121
+Vastag Csaba;A második X - 10 új felvétel;12;2011;Sony Music;212157
+Vastag Csaba;Az első X - 10 dal az élő showból;4;2011;Sony Music;218058
+Vastag Csaba;Az első X - 10 dal az élő showból;6;2010;Sony Music;324866
+Vastag Tomi;Az első X - 10 dal az élő showból;39;2011;Sony Music;301390
+Whitney Houston;I Look To You;32;2009;Sony Music;190119
+Wolf Kati;Az első X - 10 dal az élő showból;22;2011;Sony Music;351613
+Wolf Kati;Vár a holnap;47;2011;Sony Music;224101
+Yonderboi;Passive Control;92;2011;CLS Music;307404
+Zámbó Jimmy;Királyi duettek;19;2008;Magneoton;282806
+Zeneovi;Jeles napok 1.;79;2008;Sony BMG;231249
+Zeneovi;Népdalok kicsiknek;71;2011;Sony Music;139033
+Zeneovi;Népdalok kicsiknek;24;2010;Sony Music;375855
+Zeneovi;Téli ünnep;68;2007;Sony BMG;383819
+Zeneovi;Zeneovi;88;2008;Sony BMG;339289
+Zeneovi;Zeneovi;27;2007;Sony BMG;199267
+Zorán;34 dal;42;2010;Universal Music;170673
+Zorán;34 dal;8;2009;Universal Music;284410
+Zorán;Körtánc - Kóló;9;2011;Universal Music;175313
+Zorán;Közös szavakból koncert - Sportaréna 2007;67;2007;Universal Music;330399
+Zséda;Rouge;51;2009;Magneoton;255726
+Zséda;Rouge;18;2008;Magneoton;305856
